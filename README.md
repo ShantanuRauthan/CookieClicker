@@ -1,5 +1,6 @@
 # CookieClicker
 A bot which employs selenium to auto run the cookie clicker game by Orteil for you.
+You need to change the directory of the webdriver which you are using 
 
 
 Original Game Site: https://orteil.dashnet.org/cookieclicker/
